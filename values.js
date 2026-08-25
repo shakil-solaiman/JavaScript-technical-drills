@@ -12,6 +12,7 @@ if (age) {
   console.log("Kicchu nai");
 }
 
+
 // typeof returns the data type of a value
 // typeof null returns "object", which is a historical bug in JavaScript
 
